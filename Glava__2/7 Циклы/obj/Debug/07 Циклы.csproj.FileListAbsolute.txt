@@ -1,0 +1,6 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\7 Циклы\bin\Debug\7 Циклы.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\7 Циклы\bin\Debug\7 Циклы.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\7 Циклы\bin\Debug\7 Циклы.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\7 Циклы\obj\Debug\07 Циклы.csprojResolveAssemblyReference.cache
+D:\Google Диск\Си Шарп MetanIT\Glava_2\7 Циклы\obj\Debug\7 Циклы.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\7 Циклы\obj\Debug\7 Циклы.pdb

@@ -1,0 +1,13 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\bin\Debug\11 Массив параметров и ключевое слово -params-.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\bin\Debug\11 Массив параметров и ключевое слово -params-.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\bin\Debug\11 Массив параметров и ключевое слово -params-.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\obj\Debug\11 Массив параметров и ключевое слово -params-.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\obj\Debug\11 Массив параметров и ключевое слово -params-.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\obj\Debug\11 Массив параметров и ключевое слово -params-.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\bin\Debug\11 Массив параметров и ключевое слово -params-.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\bin\Debug\11 Массив параметров и ключевое слово -params-.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\bin\Debug\11 Массив параметров и ключевое слово -params-.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\obj\Debug\11 Массив параметров и ключевое слово -params-.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\obj\Debug\11 Массив параметров и ключевое слово -params-.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\obj\Debug\11 Массив параметров и ключевое слово -params-.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\11 Массив параметров и ключевое слово -params-\obj\Debug\11 Массив параметров и ключевое слово -params-.pdb

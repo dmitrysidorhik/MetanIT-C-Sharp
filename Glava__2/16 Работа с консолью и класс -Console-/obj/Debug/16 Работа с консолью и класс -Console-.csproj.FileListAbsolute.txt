@@ -1,0 +1,6 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\16 Работа с консолью и класс -Console-\bin\Debug\16 Работа с консолью и класс -Console-.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\16 Работа с консолью и класс -Console-\bin\Debug\16 Работа с консолью и класс -Console-.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\16 Работа с консолью и класс -Console-\bin\Debug\16 Работа с консолью и класс -Console-.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\16 Работа с консолью и класс -Console-\obj\Debug\16 Работа с консолью и класс -Console-.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\16 Работа с консолью и класс -Console-\obj\Debug\16 Работа с консолью и класс -Console-.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\16 Работа с консолью и класс -Console-\obj\Debug\16 Работа с консолью и класс -Console-.csprojResolveAssemblyReference.cache

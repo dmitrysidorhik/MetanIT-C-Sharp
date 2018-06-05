@@ -1,0 +1,14 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\bin\Debug\18 Кортежи.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\bin\Debug\18 Кортежи.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\bin\Debug\18 Кортежи.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\obj\Debug\18 Кортежи.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\obj\Debug\18 Кортежи.pdb
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\bin\Debug\18 Кортежи.exe.config
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\bin\Debug\18 Кортежи.exe
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\bin\Debug\18 Кортежи.pdb
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\bin\Debug\System.ValueTuple.dll
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\bin\Debug\System.ValueTuple.xml
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\obj\Debug\18 Кортежи.csprojResolveAssemblyReference.cache
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\obj\Debug\18 Кортежи.csproj.CoreCompileInputs.cache
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\obj\Debug\18 Кортежи.exe
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\18 Кортежи\obj\Debug\18 Кортежи.pdb

@@ -1,0 +1,6 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\4 Операции языка Си шарп\bin\Debug\4 Операции языка Си шарп.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\4 Операции языка Си шарп\bin\Debug\4 Операции языка Си шарп.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\4 Операции языка Си шарп\bin\Debug\4 Операции языка Си шарп.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\4 Операции языка Си шарп\obj\Debug\04 Операции языка Си шарп.csprojResolveAssemblyReference.cache
+D:\Google Диск\Си Шарп MetanIT\Glava_2\4 Операции языка Си шарп\obj\Debug\4 Операции языка Си шарп.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\4 Операции языка Си шарп\obj\Debug\4 Операции языка Си шарп.pdb

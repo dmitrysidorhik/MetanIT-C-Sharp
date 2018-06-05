@@ -1,0 +1,12 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\bin\Debug\20 Переменные-ссылки и возвращение ссылки.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\bin\Debug\20 Переменные-ссылки и возвращение ссылки.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\bin\Debug\20 Переменные-ссылки и возвращение ссылки.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\obj\Debug\20 Переменные-ссылки и возвращение ссылки.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\obj\Debug\20 Переменные-ссылки и возвращение ссылки.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\bin\Debug\20 Переменные-ссылки и возвращение ссылки.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\bin\Debug\20 Переменные-ссылки и возвращение ссылки.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\bin\Debug\20 Переменные-ссылки и возвращение ссылки.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\obj\Debug\20 Переменные-ссылки и возвращение ссылки.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\obj\Debug\20 Переменные-ссылки и возвращение ссылки.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\obj\Debug\20 Переменные-ссылки и возвращение ссылки.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\20 Переменные-ссылки и возвращение ссылки\obj\Debug\20 Переменные-ссылки и возвращение ссылки.pdb

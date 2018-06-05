@@ -1,0 +1,19 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\19 Локальные функции\bin\Debug\19 Локальные функции.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\19 Локальные функции\bin\Debug\19 Локальные функции.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\19 Локальные функции\bin\Debug\19 Локальные функции.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\19 Локальные функции\obj\Debug\19 Локальные функции.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\19 Локальные функции\obj\Debug\19 Локальные функции.pdb
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\bin\Debug\19 Локальные функции.exe.config
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\bin\Debug\19 Локальные функции.exe
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\bin\Debug\19 Локальные функции.pdb
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\obj\Debug\19 Локальные функции.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\obj\Debug\19 Локальные функции.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\obj\Debug\19 Локальные функции.exe
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\obj\Debug\19 Локальные функции.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\bin\Debug\19 Локальные функции.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\bin\Debug\19 Локальные функции.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\bin\Debug\19 Локальные функции.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\obj\Debug\19 Локальные функции.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\obj\Debug\19 Локальные функции.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\obj\Debug\19 Локальные функции.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\19 Локальные функции\obj\Debug\19 Локальные функции.pdb

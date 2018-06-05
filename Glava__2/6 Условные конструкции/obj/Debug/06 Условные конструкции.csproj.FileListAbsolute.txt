@@ -1,0 +1,6 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\6 Условные конструкции\bin\Debug\6 Условные конструкции.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\6 Условные конструкции\bin\Debug\6 Условные конструкции.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\6 Условные конструкции\bin\Debug\6 Условные конструкции.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\6 Условные конструкции\obj\Debug\6 Условные конструкции.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\6 Условные конструкции\obj\Debug\6 Условные конструкции.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\6 Условные конструкции\obj\Debug\06 Условные конструкции.csprojResolveAssemblyReference.cache

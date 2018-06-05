@@ -1,0 +1,13 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\bin\Debug\13 Перечисления -enum-.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\bin\Debug\13 Перечисления -enum-.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\bin\Debug\13 Перечисления -enum-.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\obj\Debug\13 Перечисления -enum-.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\obj\Debug\13 Перечисления -enum-.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\obj\Debug\13 Перечисления -enum-.csprojResolveAssemblyReference.cache
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\bin\Debug\13 Перечисления -enum-.exe.config
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\bin\Debug\13 Перечисления -enum-.exe
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\bin\Debug\13 Перечисления -enum-.pdb
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\obj\Debug\13 Перечисления -enum-.csprojAssemblyReference.cache
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\obj\Debug\13 Перечисления -enum-.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\obj\Debug\13 Перечисления -enum-.exe
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\13 Перечисления -enum-\obj\Debug\13 Перечисления -enum-.pdb

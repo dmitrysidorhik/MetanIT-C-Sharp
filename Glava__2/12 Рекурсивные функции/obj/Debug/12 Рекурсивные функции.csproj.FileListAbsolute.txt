@@ -1,0 +1,13 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\bin\Debug\12 Рекурсивные функции.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\bin\Debug\12 Рекурсивные функции.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\bin\Debug\12 Рекурсивные функции.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\obj\Debug\12 Рекурсивные функции.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\obj\Debug\12 Рекурсивные функции.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\obj\Debug\12 Рекурсивные функции.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\bin\Debug\12 Рекурсивные функции.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\bin\Debug\12 Рекурсивные функции.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\bin\Debug\12 Рекурсивные функции.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\obj\Debug\12 Рекурсивные функции.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\obj\Debug\12 Рекурсивные функции.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\obj\Debug\12 Рекурсивные функции.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\12 Рекурсивные функции\obj\Debug\12 Рекурсивные функции.pdb

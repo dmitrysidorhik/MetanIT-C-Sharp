@@ -1,0 +1,13 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\15 Обработка исключений\bin\Debug\15 Обработка исключений.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\15 Обработка исключений\bin\Debug\15 Обработка исключений.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\15 Обработка исключений\bin\Debug\15 Обработка исключений.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\15 Обработка исключений\obj\Debug\15 Обработка исключений.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\15 Обработка исключений\obj\Debug\15 Обработка исключений.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\15 Обработка исключений\obj\Debug\15 Обработка исключений.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\15 Обработка исключений\bin\Debug\15 Обработка исключений.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\15 Обработка исключений\bin\Debug\15 Обработка исключений.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\15 Обработка исключений\bin\Debug\15 Обработка исключений.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\15 Обработка исключений\obj\Debug\15 Обработка исключений.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\15 Обработка исключений\obj\Debug\15 Обработка исключений.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\15 Обработка исключений\obj\Debug\15 Обработка исключений.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\15 Обработка исключений\obj\Debug\15 Обработка исключений.pdb

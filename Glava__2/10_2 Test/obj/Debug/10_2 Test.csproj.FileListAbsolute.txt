@@ -1,0 +1,14 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\obj\Debug\10_2 Test.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\obj\Debug\10_2 Test.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\bin\Debug\10_2 Test.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\bin\Debug\10_2 Test.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\bin\Debug\10_2 Test.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\obj\Debug\10_2 Test.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\obj\Debug\10_2 Test.pdb
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\bin\Debug\10_2 Test.exe.config
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\bin\Debug\10_2 Test.exe
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\bin\Debug\10_2 Test.pdb
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\obj\Debug\10_2 Test.csprojAssemblyReference.cache
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\obj\Debug\10_2 Test.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\obj\Debug\10_2 Test.exe
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10_2 Test\obj\Debug\10_2 Test.pdb

@@ -1,0 +1,13 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\14 Структуры\bin\Debug\14 Структуры.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\14 Структуры\bin\Debug\14 Структуры.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\14 Структуры\bin\Debug\14 Структуры.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\14 Структуры\obj\Debug\14 Структуры.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\14 Структуры\obj\Debug\14 Структуры.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\14 Структуры\obj\Debug\14 Структуры.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Структуры\bin\Debug\14 Структуры.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Структуры\bin\Debug\14 Структуры.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Структуры\bin\Debug\14 Структуры.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Структуры\obj\Debug\14 Структуры.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Структуры\obj\Debug\14 Структуры.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Структуры\obj\Debug\14 Структуры.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Структуры\obj\Debug\14 Структуры.pdb

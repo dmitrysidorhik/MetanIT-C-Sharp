@@ -1,0 +1,6 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Типы данных и переменные\bin\Debug\Типы данных и переменные.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Типы данных и переменные\bin\Debug\Типы данных и переменные.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Типы данных и переменные\bin\Debug\Типы данных и переменные.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Типы данных и переменные\obj\Debug\1 Типы данных и переменные.csprojResolveAssemblyReference.cache
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Типы данных и переменные\obj\Debug\Типы данных и переменные.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Типы данных и переменные\obj\Debug\Типы данных и переменные.pdb

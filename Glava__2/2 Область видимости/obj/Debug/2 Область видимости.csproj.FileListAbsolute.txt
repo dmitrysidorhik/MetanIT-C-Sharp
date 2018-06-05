@@ -1,0 +1,5 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Область видимости\bin\Debug\Область видимости.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Область видимости\bin\Debug\Область видимости.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Область видимости\bin\Debug\Область видимости.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Область видимости\obj\Debug\Область видимости.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\Область видимости\obj\Debug\Область видимости.pdb

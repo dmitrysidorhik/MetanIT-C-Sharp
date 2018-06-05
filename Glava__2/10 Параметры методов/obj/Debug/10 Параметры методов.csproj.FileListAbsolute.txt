@@ -1,0 +1,19 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.pdb
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.exe.config
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.exe
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.pdb
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.exe
+C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.pdb

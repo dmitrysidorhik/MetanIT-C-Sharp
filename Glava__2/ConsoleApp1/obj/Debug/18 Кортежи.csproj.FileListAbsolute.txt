@@ -1,0 +1,5 @@
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

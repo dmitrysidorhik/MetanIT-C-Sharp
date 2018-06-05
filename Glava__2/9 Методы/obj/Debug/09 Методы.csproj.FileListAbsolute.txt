@@ -1,0 +1,26 @@
+D:\Google Диск\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.exe.config
+D:\Google Диск\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.pdb
+D:\Google Диск\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\9 Методы.exe
+D:\Google Диск\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\9 Методы.pdb
+E:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.exe.config
+E:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.exe
+E:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.pdb
+E:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\09 Методы.csprojResolveAssemblyReference.cache
+E:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\09 Методы.csproj.CoreCompileInputs.cache
+E:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\9 Методы.exe
+E:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\9 Методы.pdb
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.exe.config
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.exe
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.pdb
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\09 Методы.csprojResolveAssemblyReference.cache
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\09 Методы.csproj.CoreCompileInputs.cache
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\9 Методы.exe
+D:\Google Диск\Общая Диск\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\9 Методы.pdb
+E:\OneDrive\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.exe.config
+E:\OneDrive\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.exe
+E:\OneDrive\Си Шарп MetanIT\Glava_2\9 Методы\bin\Debug\9 Методы.pdb
+E:\OneDrive\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\09 Методы.csprojResolveAssemblyReference.cache
+E:\OneDrive\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\09 Методы.csproj.CoreCompileInputs.cache
+E:\OneDrive\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\9 Методы.exe
+E:\OneDrive\Си Шарп MetanIT\Glava_2\9 Методы\obj\Debug\9 Методы.pdb
