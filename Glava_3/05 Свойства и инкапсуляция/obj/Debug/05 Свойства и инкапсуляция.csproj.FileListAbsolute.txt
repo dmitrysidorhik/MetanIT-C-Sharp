@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\05 Свойства и инкапсуляция\bin\Debug\05 Свойства и инкапсуляция.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\05 Свойства и инкапсуляция\bin\Debug\05 Свойства и инкапсуляция.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\05 Свойства и инкапсуляция\bin\Debug\05 Свойства и инкапсуляция.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\05 Свойства и инкапсуляция\obj\Debug\05 Свойства и инкапсуляция.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\05 Свойства и инкапсуляция\obj\Debug\05 Свойства и инкапсуляция.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\05 Свойства и инкапсуляция\obj\Debug\05 Свойства и инкапсуляция.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\05 Свойства и инкапсуляция\obj\Debug\05 Свойства и инкапсуляция.pdb

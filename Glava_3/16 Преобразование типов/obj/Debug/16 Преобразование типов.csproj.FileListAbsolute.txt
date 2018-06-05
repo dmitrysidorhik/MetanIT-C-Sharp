@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\16 Преобразование типов\bin\Debug\16 Преобразование типов.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\16 Преобразование типов\bin\Debug\16 Преобразование типов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\16 Преобразование типов\bin\Debug\16 Преобразование типов.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\16 Преобразование типов\obj\Debug\16 Преобразование типов.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\16 Преобразование типов\obj\Debug\16 Преобразование типов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\16 Преобразование типов\obj\Debug\16 Преобразование типов.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\16 Преобразование типов\obj\Debug\16 Преобразование типов.csprojResolveAssemblyReference.cache

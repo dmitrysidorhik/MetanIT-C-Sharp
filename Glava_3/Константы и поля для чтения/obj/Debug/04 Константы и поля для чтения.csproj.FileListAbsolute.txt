@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Константы и поля для чтения\bin\Debug\Константы и поля для чтения.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Константы и поля для чтения\bin\Debug\Константы и поля для чтения.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Константы и поля для чтения\bin\Debug\Константы и поля для чтения.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Константы и поля для чтения\obj\Debug\04 Константы и поля для чтения.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Константы и поля для чтения\obj\Debug\04 Константы и поля для чтения.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Константы и поля для чтения\obj\Debug\Константы и поля для чтения.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Константы и поля для чтения\obj\Debug\Константы и поля для чтения.pdb

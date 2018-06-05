@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\02 Типы значений и ссылочные типы\bin\Debug\02 Типы значений и ссылочные типы.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\02 Типы значений и ссылочные типы\bin\Debug\02 Типы значений и ссылочные типы.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\02 Типы значений и ссылочные типы\bin\Debug\02 Типы значений и ссылочные типы.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\02 Типы значений и ссылочные типы\obj\Debug\02 Типы значений и ссылочные типы.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\02 Типы значений и ссылочные типы\obj\Debug\02 Типы значений и ссылочные типы.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\02 Типы значений и ссылочные типы\obj\Debug\02 Типы значений и ссылочные типы.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\02 Типы значений и ссылочные типы\obj\Debug\02 Типы значений и ссылочные типы.pdb

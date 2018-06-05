@@ -1,0 +1,6 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\13 Раннее и позднее связывание\bin\Debug\13 Раннее и позднее связывание.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\13 Раннее и позднее связывание\bin\Debug\13 Раннее и позднее связывание.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\13 Раннее и позднее связывание\bin\Debug\13 Раннее и позднее связывание.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\13 Раннее и позднее связывание\obj\Debug\13 Раннее и позднее связывание.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\13 Раннее и позднее связывание\obj\Debug\13 Раннее и позднее связывание.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\13 Раннее и позднее связывание\obj\Debug\13 Раннее и позднее связывание.pdb

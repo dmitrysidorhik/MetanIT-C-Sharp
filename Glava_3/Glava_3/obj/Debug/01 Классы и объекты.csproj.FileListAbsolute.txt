@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\bin\Debug\Glava_3.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\bin\Debug\Glava_3.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\bin\Debug\Glava_3.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\obj\Debug\01 Классы и объекты.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\obj\Debug\01 Классы и объекты.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\obj\Debug\Glava_3.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\obj\Debug\Glava_3.pdb

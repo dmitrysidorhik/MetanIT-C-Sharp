@@ -1,0 +1,13 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\bin\Debug\14 Абстрактные классы.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\bin\Debug\14 Абстрактные классы.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\bin\Debug\14 Абстрактные классы.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\obj\Debug\14 Абстрактные классы.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\obj\Debug\14 Абстрактные классы.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\obj\Debug\14 Абстрактные классы.pdb
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\bin\Debug\14 Абстрактные классы.exe.config
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\bin\Debug\14 Абстрактные классы.exe
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\bin\Debug\14 Абстрактные классы.pdb
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\obj\Debug\14 Абстрактные классы.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\obj\Debug\14 Абстрактные классы.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\obj\Debug\14 Абстрактные классы.exe
+C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_3\14 Абстрактные классы\obj\Debug\14 Абстрактные классы.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\07 Статические члены и модификатор static\bin\Debug\07 Статические члены и модификатор static.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\07 Статические члены и модификатор static\bin\Debug\07 Статические члены и модификатор static.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\07 Статические члены и модификатор static\bin\Debug\07 Статические члены и модификатор static.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\07 Статические члены и модификатор static\obj\Debug\07 Статические члены и модификатор static.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\07 Статические члены и модификатор static\obj\Debug\07 Статические члены и модификатор static.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\07 Статические члены и модификатор static\obj\Debug\07 Статические члены и модификатор static.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\07 Статические члены и модификатор static\obj\Debug\07 Статические члены и модификатор static.pdb

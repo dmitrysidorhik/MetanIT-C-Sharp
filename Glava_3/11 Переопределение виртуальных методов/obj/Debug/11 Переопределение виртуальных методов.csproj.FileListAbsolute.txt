@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\11 Переопределение виртуальных методов\bin\Debug\11 Переопределение виртуальных методов.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\11 Переопределение виртуальных методов\bin\Debug\11 Переопределение виртуальных методов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\11 Переопределение виртуальных методов\bin\Debug\11 Переопределение виртуальных методов.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\11 Переопределение виртуальных методов\obj\Debug\11 Переопределение виртуальных методов.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\11 Переопределение виртуальных методов\obj\Debug\11 Переопределение виртуальных методов.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\11 Переопределение виртуальных методов\obj\Debug\11 Переопределение виртуальных методов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\11 Переопределение виртуальных методов\obj\Debug\11 Переопределение виртуальных методов.pdb

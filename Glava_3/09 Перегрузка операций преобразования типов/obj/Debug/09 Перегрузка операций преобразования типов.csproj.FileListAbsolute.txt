@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\09 Перегрузка операций преобразования типов\bin\Debug\09 Перегрузка операций преобразования типов.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\09 Перегрузка операций преобразования типов\bin\Debug\09 Перегрузка операций преобразования типов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\09 Перегрузка операций преобразования типов\bin\Debug\09 Перегрузка операций преобразования типов.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\09 Перегрузка операций преобразования типов\obj\Debug\09 Перегрузка операций преобразования типов.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\09 Перегрузка операций преобразования типов\obj\Debug\09 Перегрузка операций преобразования типов.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\09 Перегрузка операций преобразования типов\obj\Debug\09 Перегрузка операций преобразования типов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\09 Перегрузка операций преобразования типов\obj\Debug\09 Перегрузка операций преобразования типов.pdb

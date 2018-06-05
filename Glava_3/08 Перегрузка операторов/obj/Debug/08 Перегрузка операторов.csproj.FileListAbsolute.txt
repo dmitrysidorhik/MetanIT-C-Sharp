@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\08 Перегрузка операторов\bin\Debug\08 Перегрузка операторов.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\08 Перегрузка операторов\bin\Debug\08 Перегрузка операторов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\08 Перегрузка операторов\bin\Debug\08 Перегрузка операторов.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\08 Перегрузка операторов\obj\Debug\08 Перегрузка операторов.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\08 Перегрузка операторов\obj\Debug\08 Перегрузка операторов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\08 Перегрузка операторов\obj\Debug\08 Перегрузка операторов.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\08 Перегрузка операторов\obj\Debug\08 Перегрузка операторов.csprojResolveAssemblyReference.cache

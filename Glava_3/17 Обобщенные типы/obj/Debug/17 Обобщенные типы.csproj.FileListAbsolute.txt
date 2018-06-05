@@ -1,0 +1,6 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\17 Обобщенные типы\bin\Debug\17 Обобщенные типы.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\17 Обобщенные типы\bin\Debug\17 Обобщенные типы.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\17 Обобщенные типы\bin\Debug\17 Обобщенные типы.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\17 Обобщенные типы\obj\Debug\17 Обобщенные типы.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\17 Обобщенные типы\obj\Debug\17 Обобщенные типы.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\17 Обобщенные типы\obj\Debug\17 Обобщенные типы.pdb

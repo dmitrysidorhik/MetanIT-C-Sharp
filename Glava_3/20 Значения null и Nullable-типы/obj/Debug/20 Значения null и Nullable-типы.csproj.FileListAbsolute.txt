@@ -1,0 +1,6 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\20 Значения null и Nullable-типы\bin\Debug\20 Значения null и Nullable-типы.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\20 Значения null и Nullable-типы\bin\Debug\20 Значения null и Nullable-типы.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\20 Значения null и Nullable-типы\bin\Debug\20 Значения null и Nullable-типы.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\20 Значения null и Nullable-типы\obj\Debug\20 Значения null и Nullable-типы.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\20 Значения null и Nullable-типы\obj\Debug\20 Значения null и Nullable-типы.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\20 Значения null и Nullable-типы\obj\Debug\20 Значения null и Nullable-типы.pdb

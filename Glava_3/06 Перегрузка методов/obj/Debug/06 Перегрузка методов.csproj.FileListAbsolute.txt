@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\06 Перегрузка методов\bin\Debug\06 Перегрузка методов.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\06 Перегрузка методов\bin\Debug\06 Перегрузка методов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\06 Перегрузка методов\bin\Debug\06 Перегрузка методов.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\06 Перегрузка методов\obj\Debug\06 Перегрузка методов.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\06 Перегрузка методов\obj\Debug\06 Перегрузка методов.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\06 Перегрузка методов\obj\Debug\06 Перегрузка методов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\06 Перегрузка методов\obj\Debug\06 Перегрузка методов.pdb

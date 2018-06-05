@@ -1,0 +1,6 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\19 Наследование обобщенных типов\bin\Debug\19 Наследование обобщенных типов.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\19 Наследование обобщенных типов\bin\Debug\19 Наследование обобщенных типов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\19 Наследование обобщенных типов\bin\Debug\19 Наследование обобщенных типов.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\19 Наследование обобщенных типов\obj\Debug\19 Наследование обобщенных типов.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\19 Наследование обобщенных типов\obj\Debug\19 Наследование обобщенных типов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\19 Наследование обобщенных типов\obj\Debug\19 Наследование обобщенных типов.pdb

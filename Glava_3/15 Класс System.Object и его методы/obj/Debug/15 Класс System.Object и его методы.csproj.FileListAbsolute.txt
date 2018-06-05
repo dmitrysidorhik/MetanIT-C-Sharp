@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\15 Класс System.Object и его методы\bin\Debug\15 Класс System.Object и его методы.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\15 Класс System.Object и его методы\bin\Debug\15 Класс System.Object и его методы.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\15 Класс System.Object и его методы\bin\Debug\15 Класс System.Object и его методы.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\15 Класс System.Object и его методы\obj\Debug\15 Класс System.Object и его методы.csprojResolveAssemblyReference.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\15 Класс System.Object и его методы\obj\Debug\15 Класс System.Object и его методы.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\15 Класс System.Object и его методы\obj\Debug\15 Класс System.Object и его методы.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\15 Класс System.Object и его методы\obj\Debug\15 Класс System.Object и его методы.pdb

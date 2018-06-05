@@ -1,0 +1,6 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\12 Сокрытие методов\bin\Debug\12 Сокрытие методов.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\12 Сокрытие методов\bin\Debug\12 Сокрытие методов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\12 Сокрытие методов\bin\Debug\12 Сокрытие методов.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\12 Сокрытие методов\obj\Debug\12 Сокрытие методов.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\12 Сокрытие методов\obj\Debug\12 Сокрытие методов.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\12 Сокрытие методов\obj\Debug\12 Сокрытие методов.pdb

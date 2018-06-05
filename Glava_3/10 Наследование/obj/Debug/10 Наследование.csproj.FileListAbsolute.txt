@@ -1,0 +1,7 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\10 Наследование\bin\Debug\10 Наследование.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\10 Наследование\bin\Debug\10 Наследование.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\10 Наследование\bin\Debug\10 Наследование.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\10 Наследование\obj\Debug\10 Наследование.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\10 Наследование\obj\Debug\10 Наследование.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\10 Наследование\obj\Debug\10 Наследование.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\10 Наследование\obj\Debug\10 Наследование.csprojResolveAssemblyReference.cache

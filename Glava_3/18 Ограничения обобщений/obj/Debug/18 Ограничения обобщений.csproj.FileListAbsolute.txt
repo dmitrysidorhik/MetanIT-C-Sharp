@@ -1,0 +1,6 @@
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\18 Ограничения обобщений\bin\Debug\18 Ограничения обобщений.exe.config
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\18 Ограничения обобщений\bin\Debug\18 Ограничения обобщений.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\18 Ограничения обобщений\bin\Debug\18 Ограничения обобщений.pdb
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\18 Ограничения обобщений\obj\Debug\18 Ограничения обобщений.csproj.CoreCompileInputs.cache
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\18 Ограничения обобщений\obj\Debug\18 Ограничения обобщений.exe
+C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\18 Ограничения обобщений\obj\Debug\18 Ограничения обобщений.pdb
