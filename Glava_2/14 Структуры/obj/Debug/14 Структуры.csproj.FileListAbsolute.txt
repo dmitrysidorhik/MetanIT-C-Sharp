@@ -11,3 +11,10 @@ C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Струк
 C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Структуры\obj\Debug\14 Структуры.csproj.CoreCompileInputs.cache
 C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Структуры\obj\Debug\14 Структуры.exe
 C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\14 Структуры\obj\Debug\14 Структуры.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\14 Структуры\bin\Debug\14 Структуры.exe.config
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\14 Структуры\bin\Debug\14 Структуры.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\14 Структуры\bin\Debug\14 Структуры.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\14 Структуры\obj\Debug\14 Структуры.csprojAssemblyReference.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\14 Структуры\obj\Debug\14 Структуры.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\14 Структуры\obj\Debug\14 Структуры.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\14 Структуры\obj\Debug\14 Структуры.pdb
