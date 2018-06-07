@@ -16,3 +16,13 @@ C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\Кортежи\ob
 C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\Кортежи\obj\Debug\18 Кортежи.csproj.CoreCompileInputs.cache
 C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\Кортежи\obj\Debug\Кортежи.exe
 C:\Users\Дмитрий\OneDrive\Си Шарп MetanIT\Glava_2\Кортежи\obj\Debug\Кортежи.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\Кортежи\bin\Debug\Кортежи.exe.config
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\Кортежи\bin\Debug\Кортежи.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\Кортежи\bin\Debug\Кортежи.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\Кортежи\bin\Debug\System.ValueTuple.dll
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\Кортежи\bin\Debug\System.ValueTuple.xml
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\Кортежи\obj\Debug\18 Кортежи.csprojAssemblyReference.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\Кортежи\obj\Debug\18 Кортежи.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\Кортежи\obj\Debug\18 Кортежи.csproj.CopyComplete
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\Кортежи\obj\Debug\Кортежи.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\Кортежи\obj\Debug\Кортежи.pdb

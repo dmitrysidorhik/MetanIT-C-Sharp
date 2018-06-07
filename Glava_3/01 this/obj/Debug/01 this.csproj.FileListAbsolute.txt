@@ -1,0 +1,7 @@
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\01 this\bin\Debug\01 this.exe.config
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\01 this\bin\Debug\01 this.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\01 this\bin\Debug\01 this.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\01 this\obj\Debug\01 this.csprojAssemblyReference.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\01 this\obj\Debug\01 this.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\01 this\obj\Debug\01 this.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\01 this\obj\Debug\01 this.pdb

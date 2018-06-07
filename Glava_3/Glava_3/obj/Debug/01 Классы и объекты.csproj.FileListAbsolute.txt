@@ -5,3 +5,9 @@ C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\obj\D
 C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\obj\Debug\01 Классы и объекты.csproj.CoreCompileInputs.cache
 C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\obj\Debug\Glava_3.exe
 C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_3\Glava_3\obj\Debug\Glava_3.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\Glava_3\bin\Debug\Glava_3.exe.config
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\Glava_3\bin\Debug\Glava_3.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\Glava_3\bin\Debug\Glava_3.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\Glava_3\obj\Debug\01 Классы и объекты.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\Glava_3\obj\Debug\Glava_3.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_3\Glava_3\obj\Debug\Glava_3.pdb
