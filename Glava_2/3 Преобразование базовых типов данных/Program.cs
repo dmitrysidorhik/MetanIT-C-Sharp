@@ -9,6 +9,7 @@ namespace _3_Преобразование_базовых_типов_данных
     class Program
     {
         static void Main(string[] args)
+
         {
             byte a = 3;
             int c = a + 5; //расширяющее преобразование (widening) // byte -> int

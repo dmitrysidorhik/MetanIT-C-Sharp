@@ -1,0 +1,7 @@
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\1 Типы данных и переменные\bin\Debug\Типы данных и переменные.exe.config
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\1 Типы данных и переменные\bin\Debug\Типы данных и переменные.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\1 Типы данных и переменные\bin\Debug\Типы данных и переменные.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\1 Типы данных и переменные\obj\Debug\01 Типы данных и переменные.csprojAssemblyReference.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\1 Типы данных и переменные\obj\Debug\01 Типы данных и переменные.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\1 Типы данных и переменные\obj\Debug\Типы данных и переменные.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\1 Типы данных и переменные\obj\Debug\Типы данных и переменные.pdb

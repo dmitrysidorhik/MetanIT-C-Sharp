@@ -4,3 +4,10 @@ D:\Google Диск\Си Шарп MetanIT\Glava_2\3 Преобразование 
 D:\Google Диск\Си Шарп MetanIT\Glava_2\3 Преобразование базовых типов данных\obj\Debug\03 Преобразование базовых типов данных.csprojResolveAssemblyReference.cache
 D:\Google Диск\Си Шарп MetanIT\Glava_2\3 Преобразование базовых типов данных\obj\Debug\3 Преобразование базовых типов данных.exe
 D:\Google Диск\Си Шарп MetanIT\Glava_2\3 Преобразование базовых типов данных\obj\Debug\3 Преобразование базовых типов данных.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\3 Преобразование базовых типов данных\bin\Debug\3 Преобразование базовых типов данных.exe.config
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\3 Преобразование базовых типов данных\bin\Debug\3 Преобразование базовых типов данных.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\3 Преобразование базовых типов данных\bin\Debug\3 Преобразование базовых типов данных.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\3 Преобразование базовых типов данных\obj\Debug\03 Преобразование базовых типов данных.csprojAssemblyReference.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\3 Преобразование базовых типов данных\obj\Debug\03 Преобразование базовых типов данных.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\3 Преобразование базовых типов данных\obj\Debug\3 Преобразование базовых типов данных.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\3 Преобразование базовых типов данных\obj\Debug\3 Преобразование базовых типов данных.pdb

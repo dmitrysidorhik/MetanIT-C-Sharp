@@ -17,3 +17,10 @@ C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры ме
 C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.csproj.CoreCompileInputs.cache
 C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.exe
 C:\Users\Dmitr\OneDrive\Си Шарп MetanIT\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.exe.config
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\10 Параметры методов\bin\Debug\10 Параметры методов.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.csprojAssemblyReference.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\10 Параметры методов\obj\Debug\10 Параметры методов.pdb

@@ -4,3 +4,10 @@ D:\Google Диск\Си Шарп MetanIT\Glava_2\4 Операции языка �
 D:\Google Диск\Си Шарп MetanIT\Glava_2\4 Операции языка Си шарп\obj\Debug\04 Операции языка Си шарп.csprojResolveAssemblyReference.cache
 D:\Google Диск\Си Шарп MetanIT\Glava_2\4 Операции языка Си шарп\obj\Debug\4 Операции языка Си шарп.exe
 D:\Google Диск\Си Шарп MetanIT\Glava_2\4 Операции языка Си шарп\obj\Debug\4 Операции языка Си шарп.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\4 Операции языка Си шарп\bin\Debug\4 Операции языка Си шарп.exe.config
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\4 Операции языка Си шарп\bin\Debug\4 Операции языка Си шарп.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\4 Операции языка Си шарп\bin\Debug\4 Операции языка Си шарп.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\4 Операции языка Си шарп\obj\Debug\04 Операции языка Си шарп.csprojAssemblyReference.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\4 Операции языка Си шарп\obj\Debug\04 Операции языка Си шарп.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\4 Операции языка Си шарп\obj\Debug\4 Операции языка Си шарп.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\4 Операции языка Си шарп\obj\Debug\4 Операции языка Си шарп.pdb

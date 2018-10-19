@@ -11,3 +11,10 @@ C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\2 Облас�
 C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\2 Область видимости\obj\Debug\02 Область видимости.csproj.CoreCompileInputs.cache
 C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\2 Область видимости\obj\Debug\Область видимости.exe
 C:\Users\Sidorchik_Notebook\OneDrive\Си Шарп MetanIT\Glava_2\2 Область видимости\obj\Debug\Область видимости.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\2 Область видимости\bin\Debug\Область видимости.exe.config
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\2 Область видимости\bin\Debug\Область видимости.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\2 Область видимости\bin\Debug\Область видимости.pdb
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\2 Область видимости\obj\Debug\02 Область видимости.csprojAssemblyReference.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\2 Область видимости\obj\Debug\02 Область видимости.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\2 Область видимости\obj\Debug\Область видимости.exe
+C:\Users\Dmitr\GitHub\MetanIT-C-Sharp\Glava_2\2 Область видимости\obj\Debug\Область видимости.pdb
